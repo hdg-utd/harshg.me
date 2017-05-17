@@ -65,4 +65,4 @@ Credits:
 		CSS3 PIE (css3pie.com)
 		Sass (sass-lang.com)
 		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+		Skel (skel.io)Feature1
